@@ -14,3 +14,5 @@ Assuming you already have Fungus installed, follow those easy steps:
 3. Use Fungus 
 4. Find new commands under the Tab "Tiny Crocodile Studios"
 5. Enjoy!
+
+P.S.: I added the script "StartBlockInFungusOnMouseOver.cs" which is not exactly a fungus extension, but a script which lets you start a fungus block when the mouse hovers over an object with a collider attached. Find steps to use inside the script!
